@@ -62,13 +62,18 @@
 
 <details>
     <summary>:zap: GitHub Stats</summary><br>
-    <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukumar-singh&show_icons=true&locale=en" alt="sonukumar-singh" /></p>
+    <p>
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=sonukumar-singh&show_icons=true&hide_border=true" alt="sonukumar-singh" />
+    </p>
 </details>
 
 <details>
-    <summary>:zap: Most Used Languages</summary><br>
-    <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=sonukumar-singh&show_icons=true&locale=en&layout=compact" alt="sonukumar-singh" /></p>
+  <summary>:zap: Most Used Languages</summary>
+
+<img align="left" alt="sonu GitHub Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sonukumar-singh" />
+
 </details>
+
 
 
 [youtube]: https://www.youtube.com/@noob-coder
